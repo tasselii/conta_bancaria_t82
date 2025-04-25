@@ -113,9 +113,9 @@ ContaPoupanca --> Conta
 
 <br />
 
-<div align="center">
-   <img src="https://i.imgur.com/MFK9yXB.png" title="source: imgur.com" width="90%"/>
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e14a1929-ac4a-45ae-904d-d55b7391715c" alt="Captura de tela 2025-04-25 080653" />
+</p>
 
 <br />
 
@@ -177,5 +177,5 @@ Este repositório é parte de um projeto educacional, mas contribuições são s
 
 <br />
 
-Desenvolvido por [**Rafael**](https://github.com/rafaelq80)
+Desenvolvido por [**Thiago Tasseli**](https://github.com/tasselii)
 Para dúvidas, sugestões ou colaborações, entre em contato via GitHub ou abra uma issue!
