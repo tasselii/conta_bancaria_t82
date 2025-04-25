@@ -130,7 +130,7 @@ Para executar os códigos localmente, você precisará de:
 
 <br />
 
-## 6. Como Executar os projetos no Eclipse/STS
+## 6. Como Executar o projeto no Eclipse/STS
 
 <br />
 
@@ -151,7 +151,7 @@ git clone https://github.com/rafaelq80/conta_bancaria_t82.git
 
 <br />
 
-### 6.2. Executando um projeto Java
+### 6.2. Executando o projeto
 
 1. Na guia **Package Explorer**, localize o Projeto Conta Bancária
 2. Abra a **Classe Menu**
